@@ -15,7 +15,7 @@ limitations under the License.
 */
 package main
 
-import "dscli/cmd"
+import "github.com/VanceLongwill/dscli/cmd"
 
 func main() {
 	cmd.Execute()

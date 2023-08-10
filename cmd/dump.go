@@ -4,9 +4,10 @@ Copyright © 2023 Vance Longwill <vance@evren.co.uk>
 package cmd
 
 import (
-	"dscli/dumper"
 	"encoding/json"
 	"os"
+
+	"github.com/VanceLongwill/dscli/dumper"
 
 	"cloud.google.com/go/datastore"
 	"github.com/spf13/cobra"
