@@ -1,4 +1,4 @@
-module dscli
+module github.com/VanceLongwill/dscli
 
 go 1.20
 
